@@ -4,6 +4,9 @@ LED lightning system - RC with Arduino
 Sistema de iluminación creativa de mueble de estanterías desarrollado por el artista José Manuel González y el 
 estudio de arquitectura Properties Creative dirigido por el arquitecto Liam Phelan.
 
+https://cargocollective.com/geometriaemocional
+http://www.lphelan.com/
+
 Consiste en un sistema de control de espacios iluminados mediante tiras led ws2812b
 que permite al usuario controlar por separado cada estante, mediante sistema HSV.
 
