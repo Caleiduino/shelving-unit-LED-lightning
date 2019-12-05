@@ -25,6 +25,6 @@ https://github.com/FastLED/FastLED
 
 http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
 
-https://www.youtube.com/watch?v=OFv94LBmmmQ&feature=youtu.be
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFv94LBmmmQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
