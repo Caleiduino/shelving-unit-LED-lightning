@@ -17,4 +17,8 @@ El control remoto, hackeado para su uso mediante una arduino nano(master) y una 
 permite al usuario control HSV, luminosidad y animaciones. También ofrece la posibilidad de composición de colores 
 aleatoria y grabación de valores en la EEPROM.
 
+El esquema del sistema de iluminación sigue el orden de la siguiente imagen. Son 8 espacios, controlados mediante mapeado de leds con el simple uso de 5 señales digitales:
+
+
+
 
