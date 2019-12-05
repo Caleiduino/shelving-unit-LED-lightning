@@ -25,5 +25,12 @@ La personalización del mando a distancia mediante vinilo impreso adhesivo dio c
 
 ![MANDO](https://user-images.githubusercontent.com/20140969/70262269-56f95180-1794-11ea-9734-f22ba1e28f6b.png)
 
+Todo el proyecto ha sido posible gracias a la inspiración proveniente de los siguientes aportes:
 
+https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy
 
+https://github.com/FastLED/FastLED
+
+http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
+
+Por supuesto agradecer la inestimable colaboración y consejos impagables del gran maestro arduinero Don David Cuartielles, con el que pasé una muy buena tarde en el laboratorio de Arduino en Malmö hablando de código, durante el verano de 2019.
