@@ -19,6 +19,8 @@ aleatoria y grabación de valores en la EEPROM.
 
 El esquema de iluminación consiste en 8 espacios controlados mediante mapeado de leds con el simple uso de 5 señales digitales. Los leds se encuentran embutidos en perfiles de aluminio y PVC translúcido dentro del mueble.
 
+https://user-images.githubusercontent.com/20140969/70262053-eb16e900-1793-11ea-8cdf-6e16aff4bd4e.jpg
+
 https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy
 
 https://github.com/FastLED/FastLED
