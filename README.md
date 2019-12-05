@@ -20,5 +20,9 @@ aleatoria y grabación de valores en la EEPROM.
 El esquema del sistema de iluminación sigue el orden de la siguiente imagen. Son 8 espacios, controlados mediante mapeado de leds con el simple uso de 5 señales digitales:
 ![Estantería_LEDS](https://user-images.githubusercontent.com/20140969/70262053-eb16e900-1793-11ea-8cdf-6e16aff4bd4e.jpg)
 
+La personalización del mando a distancia mediante vinilo impreso adhesivo dio como resultado este diseño:
+
+
+
 
 
