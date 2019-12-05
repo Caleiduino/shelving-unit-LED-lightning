@@ -17,15 +17,7 @@ El control remoto, hackeado para su uso mediante una arduino nano(master) y una 
 permite al usuario control HSV, luminosidad y animaciones. También ofrece la posibilidad de composición de colores 
 aleatoria y grabación de valores en la EEPROM.
 
-El esquema del sistema de iluminación sigue el orden de la siguiente imagen. Son 8 espacios, controlados mediante mapeado de leds con el simple uso de 5 señales digitales:
-
-![Estantería_LEDS](https://user-images.githubusercontent.com/20140969/70262053-eb16e900-1793-11ea-8cdf-6e16aff4bd4e.jpg)
-
-La personalización del mando a distancia mediante vinilo impreso adhesivo dio como resultado este diseño:
-
-![MANDO](https://user-images.githubusercontent.com/20140969/70262269-56f95180-1794-11ea-9734-f22ba1e28f6b.png)
-
-Todo el proyecto ha sido posible gracias a la inspiración proveniente de los siguientes aportes:
+El esquema de iluminación consiste en 8 espacios controlados mediante mapeado de leds con el simple uso de 5 señales digitales. Los leds se encuentran embutidos en perfiles de aluminio y PVC translúcido dentro del mueble.
 
 https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy
 
@@ -33,4 +25,6 @@ https://github.com/FastLED/FastLED
 
 http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
 
-Por supuesto agradecer la inestimable colaboración y consejos impagables del gran maestro arduinero Don David Cuartielles, con el que pasé una muy buena tarde en el laboratorio de Arduino en Malmö hablando de código, durante el verano de 2019.
+https://www.youtube.com/watch?v=OFv94LBmmmQ&feature=youtu.be
+
+
