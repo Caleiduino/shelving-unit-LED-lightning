@@ -25,4 +25,6 @@ https://github.com/FastLED/FastLED
 
 http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
 
+A continuación un vídeo de youtube que muestra su funcionamiento tras la instalación en la casa del cliente:
+
 https://www.youtube.com/watch?v=OFv94LBmmmQ&feature=youtu.be
