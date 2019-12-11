@@ -1,13 +1,12 @@
-// Control de LEDs con la Arduino Mega conectada a la Arduino nano que maneja los comandos del mando RC
+// Control de LEDs con la Arduino Mega conectada por el serial a la Arduino nano que maneja los comandos del mando RC
 
 #include <EEPROM.h>
 #include <FastLED.h>
 
-// How many leds in your strip?
-// How many leds in your strip?
-#define NUM_LEDS1 258 // 64 + 57 + 120
-#define NUM_LEDS2 258 // 185 + 60
-#define NUM_LEDS3 258 // 62 + 57 130
+// Numero de LEDs por tira . Ponemos un número mayor del necesario.
+#define NUM_LEDS1 258 
+#define NUM_LEDS2 258 
+#define NUM_LEDS3 258 
 #define NUM_LEDS4 258
 #define NUM_LEDS5 258
 //---------------------------------------------- 
@@ -24,9 +23,7 @@ extern const TProgmemPalette16 static_WhitePalette_p PROGMEM;
 */
 //---------------------------------------------- 
 
-// For led chips like Neopixels, which have a data line, ground, and power, you just
-// need to define DATA_PIN.  For led chipsets that are SPI based (four wires - data, clock,
-// ground, and power), like the LPD8806 define both DATA_PIN and CLOCK_PIN
+// Pines de datos para cada tira de LEDs
 #define DATA_PIN1 2
 #define DATA_PIN2 3
 #define DATA_PIN3 4
@@ -51,9 +48,9 @@ byte value = 100; // BRILLO MEDIO
 byte color[] = {30, 30, 30, 30, 30, 30, 30, 30}; // TONO - EMPEZAMOS CON EL VERDE / AMARILLO / NARANJA / ROJO / MAG / VIOL / AZUL / VERDE
 byte saturacion[] = {100, 100, 100, 100, 100, 100, 100, 100};  // SATURACION MEDIA
 byte brillo[] = {100, 100, 100, 100, 100, 100, 100, 100}; //VALOR MEDIO
-uint8_t brightness = 100;
+uint8_t brightness = 100; // Luminosidad media
 
-// -------------PARÁMETROS-----------------------------
+// -------------PARÁMETROS DEL CONTROL DE DATOS DEL RC-----------------------------
 /////////////
 int     animation_rate = 1; 
 int     mode = 9; // Animation mode index
