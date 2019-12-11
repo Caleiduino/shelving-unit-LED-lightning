@@ -24,13 +24,15 @@ El esquema de iluminación consiste en 8 espacios controlados mediante mapeado d
 
 Fueron de gran importancia para la realización del proyecto los siguientes tutoriales y repositorios:
 
-https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy
+Para el control remoto: https://github.com/z3t0/Arduino-IRremote
 
-https://github.com/FastLED/FastLED
+Para el sistema de alimentación de los LEDs: https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy
 
-http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
+Para el control de LEDs: https://github.com/FastLED/FastLED
 
-Fue muy de agradecer la ayuda encomiable y los consejos impagables de David Cuartielles.
+Para el sistema de conexiones: http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
+
+Fue muy de agradecer la ayuda encomiable y los consejos impagables del gran David Cuartielles.
 
 A continuación un vídeo de youtube que muestra su funcionamiento tras la instalación en la casa del cliente:
 
