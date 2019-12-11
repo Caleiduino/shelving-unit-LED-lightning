@@ -1,8 +1,7 @@
 # shelving-unit-LED-lightning
-LED lightning system - RC with Arduino
+Arduino LED light system - RC with Arduino
 
-Sistema de iluminación creativa de mueble de estanterías desarrollado por el artista José Manuel González y el 
-estudio de arquitectura Properties Creative dirigido por el arquitecto Liam Phelan.
+Sistema de iluminación creativa de mueble de estanterías basado en Arduino y desarrollado por el artista José Manuel González y el estudio de diseño Properties Creative dirigido por el arquitecto Liam Phelan.
 
 https://cargocollective.com/geometriaemocional
 
@@ -13,7 +12,7 @@ que permite al usuario controlar por separado cada estante, mediante sistema HSV
 
 ![91cikqGC+BL _AC_SX569_](https://user-images.githubusercontent.com/20140969/70261234-4ba52680-1792-11ea-8d23-bb63ed30e717.jpg)
 
-El control remoto, hackeado para su uso mediante una arduino nano(master) y una arduino mega(slave),
+El control remoto hackeado (usando la librería IRremote) para su uso mediante una arduino nano(master) y una arduino mega(slave),
 permite al usuario control HSV, luminosidad y animaciones. También ofrece la posibilidad de composición de colores 
 aleatoria y grabación de valores en la EEPROM. A continuación el diseño del mando customizado mediante vinilo impreso adhesivo:
 
