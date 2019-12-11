@@ -36,6 +36,9 @@ Fue muy de agradecer la ayuda encomiable y los consejos impagables del gran Davi
 
 A continuación varias fotos del desarrollo del proyecto y un vídeo de youtube que muestra su funcionamiento tras la instalación en la casa del cliente:
 
-
+![IMG_20190802_133024_1](https://user-images.githubusercontent.com/20140969/70611412-76193880-1c05-11ea-80bf-59cf1fd0dae1.jpg)
+![IMG_20190805_131356](https://user-images.githubusercontent.com/20140969/70611483-8f21e980-1c05-11ea-86a9-551b29e01a41.jpg)
+![IMG_20190807_094845](https://user-images.githubusercontent.com/20140969/70611577-b4aef300-1c05-11ea-83cb-b523fb28536b.jpg)
+![IMG_20190726_151242](https://user-images.githubusercontent.com/20140969/70611695-e2943780-1c05-11ea-92f9-0472ba8ed221.jpg)
 
 https://www.youtube.com/watch?v=OFv94LBmmmQ&feature=youtu.be
