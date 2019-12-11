@@ -1,7 +1,7 @@
 // Control de LEDs con la Arduino Mega conectada por el serial a la Arduino nano que maneja los comandos del mando RC
 
-#include <EEPROM.h>
-#include <FastLED.h>
+#include <EEPROM.h> // LIBRERIA PARA GUARDAR PARAMETROS EN LA MEMORIA DE ARDUINO
+#include <FastLED.h> // LIBRERIA DE CONTROL DE LEDS
 
 // Numero de LEDs por tira . Ponemos un número mayor del necesario.
 #define NUM_LEDS1 258 
