@@ -41,4 +41,4 @@ A continuación varias fotos del desarrollo del proyecto y un vídeo de youtube 
 ![IMG_20190807_094845](https://user-images.githubusercontent.com/20140969/70611577-b4aef300-1c05-11ea-83cb-b523fb28536b.jpg)
 ![IMG_20190726_151242](https://user-images.githubusercontent.com/20140969/70611695-e2943780-1c05-11ea-92f9-0472ba8ed221.jpg)
 
-[https://www.youtube.com/watch?v=OFv94LBmmmQ&feature=youtu.be](url)
+https://youtu.be/OFv94LBmmmQ
