@@ -1,5 +1,5 @@
 # shelving-unit-LED-lightning
-Arduino LED light system - RC with Arduino
+Arduino LED light system
 
 Sistema de iluminación creativa de mueble de estanterías basado en Arduino y desarrollado por el artista José Manuel González y el estudio de diseño Property Creative dirigido por el arquitecto Liam Phelan.
 
