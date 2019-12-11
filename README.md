@@ -32,8 +32,10 @@ Para el control de LEDs: https://github.com/FastLED/FastLED
 
 Para el sistema de conexiones: http://industriumvita.com/lighthouse-with-remote-controlled-led-beacon/
 
-Fue muy de agradecer la ayuda encomiable y los consejos impagables del gran David Cuartielles.
+Fue muy de agradecer la ayuda encomiable y los consejos impagables del gran David Cuartielles. También fue de gran ayuda el disfrutar de una residencia artística en el Makerspace UNDERBROEN de Copenhagen, durante agosto de 2019, lugar en donde se desarrolló la mayor parte del diseño.
 
-A continuación un vídeo de youtube que muestra su funcionamiento tras la instalación en la casa del cliente:
+A continuación varias fotos del desarrollo del proyecto y un vídeo de youtube que muestra su funcionamiento tras la instalación en la casa del cliente:
+
+
 
 https://www.youtube.com/watch?v=OFv94LBmmmQ&feature=youtu.be
