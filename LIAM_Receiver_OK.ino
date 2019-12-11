@@ -1,6 +1,6 @@
-#include <IRremote.h>
+#include <IRremote.h> // Librería para el control remoto https://github.com/z3t0/Arduino-IRremote
 
-int RECV_PIN = 3;
+int RECV_PIN = 3; // Pin conectado al sensor infrarrojo. La comunicación entre la arduino nano(master) y la arduino mega(slave) es a través de la conexión serial RX/TX
 IRrecv irrecv(RECV_PIN);
 decode_results results;
 char command;
