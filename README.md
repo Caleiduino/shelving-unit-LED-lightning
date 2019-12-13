@@ -39,6 +39,7 @@ A continuación varias fotos del desarrollo del proyecto y un vídeo de youtube 
 ![IMG_20190802_133024_1](https://user-images.githubusercontent.com/20140969/70611412-76193880-1c05-11ea-80bf-59cf1fd0dae1.jpg)
 ![IMG_20190805_131356](https://user-images.githubusercontent.com/20140969/70611483-8f21e980-1c05-11ea-86a9-551b29e01a41.jpg)
 ![IMG_20190807_094845](https://user-images.githubusercontent.com/20140969/70611577-b4aef300-1c05-11ea-83cb-b523fb28536b.jpg)
+![IMG-20190914-WA0000](https://user-images.githubusercontent.com/20140969/70792507-af82ad00-1d99-11ea-8b43-60dcdde8de9a.jpeg)
 ![IMG_20190726_151242](https://user-images.githubusercontent.com/20140969/70611695-e2943780-1c05-11ea-92f9-0472ba8ed221.jpg)
 
 Vídeo: https://youtu.be/OFv94LBmmmQ
